@@ -128,23 +128,14 @@ Le tienes que dar a la segunda opcion que dice "Metodo de matriculacion" al darl
 
 ## 6. Personalización de la Apariencia
 
-1. Descarga y activa un tema diferente.
-   - **Ruta:** *Administración del sitio > Connectors > Instal·lar complement.*
-2. Cambia la cabecera y el pie de página.
-   - **Ruta:** *Administración del sitio > Aparença > Temes > Selector de temes.*
+Para cambiar el tema del Moodle tiens que ir a "Administacion del sitio" a "Extenciones"
+![image](https://github.com/user-attachments/assets/90be6907-0cef-421b-a6e3-a1c0a166c398)
+Y la primera opcion que sale "Instalar Complementos" para cambiarlo tienes que descargar un archivo ZIP
+![image](https://github.com/user-attachments/assets/b6b12ddb-7cec-42f9-986d-6f7a183598cb)
 
----
-
-## 7. Gestión del Curso A
-
-1. Asigna un profesor y matricula alumnos.
-2. El profesor debe agregar contenido y actividades.
-3. Crear una tarea con fecha de entrega abierta para cargar un PDF.
-
----
-
-## 8. Comprobación de la Entrega de Tareas
-
-1. Inicia sesión como alumno.
-2. Accede al curso **A** y sube un archivo en la tarea asignada.
-3. Verifica que la entrega se haya realizado correctamente.
+Para cambiar la cabecera tiens que ir a "Administacion del sitio" a "Apariencias"
+![image](https://github.com/user-attachments/assets/fa608f17-874e-4e81-b20b-f95a75fc762d)
+Y a "Temas" cuando estes en temas tiens tiens que darle a la ruedita de ajustes que esta alado de el nombre de el tema por ejemplo el primer tema se llama "Boot (Impulso)" alado sale la ruedita dale.
+![image](https://github.com/user-attachments/assets/f64a9335-24e0-453a-80cc-f01672f0e160)
+al darle te saldra mas opciones para poder personalisar tu Moodle puedes poner imagenes para el fondo de incio sesion etc..
+![image](https://github.com/user-attachments/assets/b09881a5-6a37-4b20-b51f-b4a6ca0a4329)
