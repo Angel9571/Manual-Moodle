@@ -19,7 +19,7 @@ Para cambiar la foto de perfil tendrás que bajar hasta donde pone “Imagen de 
 ![image](https://github.com/user-attachments/assets/ee0db4a9-39dc-49a4-b9e6-c9274b9cfac5)
 ![image](https://github.com/user-attachments/assets/f6066bd8-cb59-438f-ae0c-555c18613d84)
 
-### Canviar bombre del sitio
+### Canviar nombre del sitio
 Ahora para cambiar el nombre de tu sitio tienes que ir a “administración del sitio” en general bajaras hasta donde pone “Página principal del sitio”.
 
 ![image](https://github.com/user-attachments/assets/a24a6cc9-f91e-4a5e-be96-9dfa55596dc9)
@@ -124,7 +124,7 @@ Y antes de que te salgas hay una opcion que tieens que cambiar el separador CSV 
 ## 5. Matriculación en Cursos
 
 ### Poner a todos los usuarios creados a las dos clases (A,B)
-Para poner a todos los usuarios crados a las clases tiens que hacer esto tiens que entrar a la clase "A" o "B", darle a "Participantes"
+Para poner a todos los usuarios creados a las clases tiens que hacer esto tiens que entrar a la clase "A" o "B", darle a "Participantes"
 
 ![image](https://github.com/user-attachments/assets/6f284dd4-96b3-49a8-932b-5ae15b714c6e)
 
