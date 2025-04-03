@@ -199,7 +199,7 @@ al darle te saldra mas opciones para poder personalisar tu Moodle puedes poner i
 
 ![image](https://github.com/user-attachments/assets/b09881a5-6a37-4b20-b51f-b4a6ca0a4329)
 
-te tednria que salir asi
+Quedaria asi
 
 ![image](https://github.com/user-attachments/assets/fd0eede5-590d-4080-bac3-610163ac2ef2)
 ![image](https://github.com/user-attachments/assets/eb7102aa-ad3b-4a5b-89cb-851072735f0d)
