@@ -209,9 +209,11 @@ Quedaria asi
 ## 7. Seguridad
 
 Para poder bloquear una ip del tu Moodle lo que tienes que hacer es esto ir a "Administracion del sitio" luego vas a "Seguridad" y en el apartado de seguridad le das a "Bloqueador de Ips"
+
 ![1](https://github.com/user-attachments/assets/054ab5b5-c85b-4afd-aefb-b6c7e53112c3)
 ![2](https://github.com/user-attachments/assets/4c5bcd1a-8460-4b0e-9936-1bfd7d7e15b3)
 ![3](https://github.com/user-attachments/assets/6065538c-19ee-45de-96e1-254e2193db4c)
+
 Acuerdate de guardar los cambios para que se te quede guardado todo los cambios que has echo
 
 
